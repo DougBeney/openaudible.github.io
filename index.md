@@ -6,7 +6,6 @@ Download and view all your audible.com content. Convert to mp3, text list, json,
 Perhaps the fastest utility for downloading and converting Audible content-- about 30 seconds per hour of audiobook.
 
 ## Download
-
 |         |           |
 |:----------|:------------------|
 | **Mac OS**   | [OpenAudible_macos_0_9.dmg](https://github.com/openaudible/openaudible/releases/download/v0.9/OpenAudible_macos_0_9.dmg) |
