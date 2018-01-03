@@ -6,17 +6,17 @@ Download and view all your audible.com content. Convert to mp3, text list, json,
 Perhaps the fastest utility for downloading and converting Audible content-- about 30 seconds per hour of audiobook.
 
 ## Download
-| Platform     | Download  |
+| Platform     | Download                    |
 |:-------------|:----------------------------|
 | Mac OS       | [OpenAudible_macos_0_9.dmg](https://github.com/openaudible/openaudible/releases/download/v0.9/OpenAudible_macos_0_9.dmg)               |
 | Win 64       | [OpenAudible_windows-x64_0_9.exe](https://github.com/openaudible/openaudible/releases/download/v0.9/OpenAudible_windows-x64_0_9.exe)   |
 | Linux        | [OpenAudible_unix_0_9.sh](https://github.com/openaudible/openaudible/releases/download/v0.9/OpenAudible_unix_0_9.sh)                   |
 
-| Platform        | Download          | three |
+| Platform        | Download          |
 |:-------------|:------------------|:------|
-| Mac OS           | OpenAudible_macos_0_9.dmg | nice  |
-| Win 64           | OpenAudible_windows-x64_0_9.exe | nice  |
-| Linux            | OpenAudible_unix_0_9.sh | 
+| Mac OS           | OpenAudible_macos_0_9.dmg  |
+| Win 64           | OpenAudible_windows-x64_0_9.exe  |
+| Linux            | [OpenAudible_unix_0_9.sh](https://github.com/openaudible/openaudible/releases/download/v0.9/OpenAudible_unix_0_9.sh) |
 
 ## Screen Shot
 ![Windows Screenshot](https://openaudible.github.io/images/open_audible_win.png)
