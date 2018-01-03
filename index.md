@@ -1,6 +1,7 @@
 # OpenAudible
 An open-source cross-platform audible manager
 
+## Download
 | Platform        | Download |
 |:-------------|:------------------|
 | Mac OS | [OpenAudible_macos_0_9.dmg](https://github.com/openaudible/openaudible/releases/download/v0.9/OpenAudible_macos_0_9.dmg) |
