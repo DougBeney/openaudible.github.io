@@ -1,0 +1,11 @@
+
+updates.xml
+
+
+
+# macosx
+*.DS_Store
+
+# windows
+cachesThumbs.db
+Desktop.ini
