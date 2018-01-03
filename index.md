@@ -7,10 +7,11 @@ Perhaps the fastest utility for downloading and converting Audible content-- abo
 
 ## Download
 
-|:----------|:------------------|
-| **Mac OS**  | [OpenAudible_macos_0_9.dmg](https://github.com/openaudible/openaudible/releases/download/v0.9/OpenAudible_macos_0_9.dmg) |
-| **Win 64**    | [OpenAudible_windows-x64_0_9.exe](https://github.com/openaudible/openaudible/releases/download/v0.9/OpenAudible_windows-x64_0_9.exe) |
-| **Linux**     | [OpenAudible_unix_0_9.sh](https://github.com/openaudible/openaudible/releases/download/v0.9/OpenAudible_unix_0_9.sh) |
+|         |           |
+|:--------- -|:------------------|
+| **Mac OS**   | [OpenAudible_macos_0_9.dmg](https://github.com/openaudible/openaudible/releases/download/v0.9/OpenAudible_macos_0_9.dmg) |
+| **Win 64**   | [OpenAudible_windows-x64_0_9.exe](https://github.com/openaudible/openaudible/releases/download/v0.9/OpenAudible_windows-x64_0_9.exe) |
+| **Linux**    | [OpenAudible_unix_0_9.sh](https://github.com/openaudible/openaudible/releases/download/v0.9/OpenAudible_unix_0_9.sh) |
 
 ## Screen Shot
 ![Windows Screenshot](https://openaudible.github.io/images/open_audible_win.png)
@@ -37,4 +38,11 @@ The source code [source code](https://github.com/openaudible/openaudible) is 100
 ## License and Disclaimer
 OpenAudible is unaffiliated with audible.com.
 OpenAudible uses ffmpeg to decode audio files.
-OpenAudible is licensed under the Eclipse license.
+Licensed under the Eclipse license.
+
+```js
+
+console.log("test");
+// Javascript code with syntax highlighting.
+$() { alert('loaded');}
+```
