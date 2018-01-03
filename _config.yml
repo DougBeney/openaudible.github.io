@@ -4,3 +4,4 @@ description: OpenAudible Project Page
 show_downloads: false
 google_analytics:
 github.repository_url: https://github.com/openaudible/openaudible
+site.github.repository_url: https://github.com/openaudible/openaudible
