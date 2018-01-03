@@ -9,9 +9,9 @@ Perhaps the fastest utility for downloading and converting Audible content-- abo
 
 |         |           |
 |:----------|:------------------|
-| **Mac OS**   | [OpenAudible_macos.dmg](OpenAudible_macos_0_9.dmg) |
-| **Win 64**   | [OpenAudible_windows-x64.exe](http://openaudible.com/OpenAudible_windows-x64.exe) |
-| **Linux**    | [OpenAudible_unix.sh](https://github.com/openaudible/openaudible/releases/download/v0.9/OpenAudible_unix_0_9.sh) |
+| **Mac OS**   | [OpenAudible_macos.dmg](OpenAudible_macos.dmg) |
+| **Win 64**   | [OpenAudible_windows-x64.exe](OpenAudible_windows-x64.exe) |
+| **Linux**    | [OpenAudible_unix.sh](OpenAudible_unix.sh) |
 
 ## Screen Shot
 ![Windows Screenshot](https://openaudible.github.io/images/open_audible_win.png)
@@ -33,7 +33,11 @@ From there, you can choose to download one or more books.
 Converting them to MP3 can be done once you have your audible decode key.
 
 ## Source Code and Contributing
-The source code [source code](https://github.com/openaudible/openaudible) is 100% free and open source.   
+The source code [source code](https://github.com/openaudible/openaudible) is 100% free and open source.
+
+The source code [source code](https://github.com/openaudible/openaudible) is 100% free and open source.
+
+
 
 ## License and Disclaimer
 OpenAudible is unaffiliated with audible.com.

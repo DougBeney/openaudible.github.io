@@ -1,5 +1,0 @@
-# List of generated media files. The columns are tab-separated:
-# id | media file type | display name | media file path
-145	unix	Linux	M:\openaudible.github.io\release\OpenAudible_unix.sh
-29	windows	Windows	M:\openaudible.github.io\release\OpenAudible_windows-x64.exe
-134	macos	Mac	M:\openaudible.github.io\release\OpenAudible_macos.dmg
