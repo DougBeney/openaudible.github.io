@@ -1,9 +1,12 @@
 # OpenAudible
 An open-source cross-platform audible manager
+* [OpenAudible_macos_0_9.dmg](https://github.com/openaudible/openaudible/releases/download/v0.9/OpenAudible_macos_0_9.dmg)
+* [OpenAudible_windows-x64_0_9.exe](https://github.com/openaudible/openaudible/releases/download/v0.9/OpenAudible_windows-x64_0_9.exe)
+* [OpenAudible_unix_0_9.sh](https://github.com/openaudible/openaudible/releases/download/v0.9/OpenAudible_unix_0_9.sh)
 
 ## Screen Shots
 ![Windows Screenshot](https://openaudible.github.io/images/open_audible_win.png)
-Windows User Interface
+
 
 ## Quick Start
 Install the version for your platform.
