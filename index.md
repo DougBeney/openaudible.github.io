@@ -35,10 +35,6 @@ Converting them to MP3 can be done once you have your audible decode key.
 ## Source Code and Contributing
 The source code [source code](https://github.com/openaudible/openaudible) is 100% free and open source.
 
-The source code [source code](https://github.com/openaudible/openaudible) is 100% free and open source.
-
-
-
 ## License and Disclaimer
 OpenAudible is unaffiliated with audible.com.
 OpenAudible uses ffmpeg to decode audio files.
