@@ -9,9 +9,11 @@ Perhaps the fastest utility for downloading and converting Audible content-- abo
 
 |         |           |
 |:----------|:------------------|
-| **Mac OS**   | [OpenAudible_macos.dmg](OpenAudible_macos.dmg) |
-| **Win 64**   | [OpenAudible_windows-x64.exe](OpenAudible_windows-x64.exe) |
-| **Linux**    | [OpenAudible_unix.sh](OpenAudible_unix.sh) |
+| **Mac OS**   | [OpenAudible_macos.dmg](https://github.com/openaudible/openaudible/releases/download/v0.9.1/OpenAudible_macos.dmg) |
+| **Win 64**   | [OpenAudible_windows-x64.exe](https://github.com/openaudible/openaudible/releases/download/v0.9.1/OpenAudible_windows-x64.exe) |
+| **Linux**    | [OpenAudible_unix.sh](https://github.com/openaudible/openaudible/releases/download/v0.9.1/OpenAudible_unix.sh) |
+[Latest Release](https://github.com/openaudible/openaudible/releases/latest)
+
 
 ## Screen Shot
 ![Windows Screenshot](https://openaudible.github.io/images/open_audible_win.png)
