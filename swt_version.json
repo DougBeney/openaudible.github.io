@@ -1,7 +1,7 @@
 {
-	"version":"0.9.2",
+	"version":"0.9.3",
 	"site":"http://openaudible.org/",
-	"mac":"https://github.com/openaudible/openaudible/releases/download/v0.9.2/OpenAudible_macos.dmg)",
-	"win":"https://github.com/openaudible/openaudible/releases/download/v0.9.2/OpenAudible_windows-x64.exe",
-	"linux":"https://github.com/openaudible/openaudible/releases/download/v0.9.2/OpenAudible_unix.sh"
+	"mac":"https://github.com/openaudible/openaudible/releases/download/v0.9.3/OpenAudible_macos.dmg)",
+	"win":"https://github.com/openaudible/openaudible/releases/download/v0.9.3/OpenAudible_windows-x64.exe",
+	"linux":"https://github.com/openaudible/openaudible/releases/download/v0.9.3/OpenAudible_unix.sh"
 }

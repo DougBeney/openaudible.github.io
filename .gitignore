@@ -5,5 +5,5 @@ output.txt
 *.DS_Store
 
 # windows
-cachesThumbs.db
+Thumbs.db
 Desktop.ini
