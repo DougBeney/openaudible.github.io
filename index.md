@@ -35,12 +35,20 @@ You can browse the books you have purchased from audible.
 
 From there, you can choose to download one or more books.
 
-Converting them to MP3 can be done once you have your audible decode key.
+Converting AAX files to MP3 is done by selecting one or more files and choosing "Convert to MP3" from the Action menu.
+
+You can also import all existing AAX files you may have already downloaded by using the File: Import AAX Files or simply dragging them into application.
 
 ## Source Code and Contributing
 The source code [source code](https://github.com/openaudible/openaudible) is 100% free and open source.
+TODO List:
+ - Looking to obtain a signing certificate.
+ - Need testers and feedback
+ - Need AAX files for testing
+ - Looking for cross-platform mobile/desktop/Sonos audiobook players for integration
 
 ## License and Disclaimer
 OpenAudible is unaffiliated with audible.com.
 OpenAudible uses ffmpeg to decode audio files.
 Licensed under the Eclipse license.
+For use on your own audible content that you own.
