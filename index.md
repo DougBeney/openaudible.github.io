@@ -2,18 +2,20 @@
 An [open-source](https://github.com/openaudible/openaudible) cross-platform audible manager that is 100% free.
 
 ## Features
-Download and view all your audible.com content. Convert to mp3, text list, json, and html formats.
+Download, view, and convert all your audible.com content. Convert to mp3, text list, json, and html formats.
+
 Perhaps the fastest utility for downloading and converting Audible content-- about 30 seconds per hour of audiobook.
 
 ## Download
 
 |         |           |
 |:----------|:------------------|
-| **Mac OS**   | [OpenAudible_macos.dmg](https://github.com/openaudible/openaudible/releases/download/v0.9.3/OpenAudible_macos_0_9_3.dmg) |
-| **Win 64**   | [OpenAudible_windows-x64.exe](https://github.com/openaudible/openaudible/releases/download/v0.9.3/OpenAudible_windows-x64_0_9_3.exe) |
-| **Linux**    | [OpenAudible_unix.sh](https://github.com/openaudible/openaudible/releases/download/v0.9.3/OpenAudible_unix_0_9_3.sh) |
+| **Mac OS**   | [OpenAudible.dmg](https://github.com/openaudible/openaudible/releases/download/v0.9.4/OpenAudible_macos_0_9_4.dmg) |
+| **Win 64**   | [OpenAudible.exe](https://github.com/openaudible/openaudible/releases/download/v0.9.4/OpenAudible_windows-x64_0_9_4.exe) |
+| **Linux**    | [OpenAudible.sh](https://github.com/openaudible/openaudible/releases/download/v0.9.4/OpenAudible_unix_0_9_4.sh) |
 
-[Latest Release](https://github.com/openaudible/openaudible/releases/latest)
+
+[Other Releases](https://github.com/openaudible/openaudible/releases/latest)
 
 
 ## Screen Shot
