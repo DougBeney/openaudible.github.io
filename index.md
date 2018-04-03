@@ -10,9 +10,9 @@ Perhaps the fastest utility for downloading and converting Audible content-- abo
 
 |         |           |
 |:----------|:------------------|
-| **Mac OS**   | [OpenAudible.dmg](https://github.com/openaudible/openaudible/releases/download/v0.9.4/OpenAudible_macos_0_9_4.dmg) |
-| **Win 64**   | [OpenAudible.exe](https://github.com/openaudible/openaudible/releases/download/v0.9.4/OpenAudible_windows-x64_0_9_4.exe) |
-| **Linux**    | [OpenAudible.sh](https://github.com/openaudible/openaudible/releases/download/v0.9.4/OpenAudible_unix_0_9_4.sh) |
+| **Mac OS**   | [OpenAudible.dmg](https://github.com/openaudible/openaudible/releases/download/v1.0/OpenAudible_macos_1_0.dmg) |
+| **Win 64**   | [OpenAudible.exe](https://github.com/openaudible/openaudible/releases/download/v1.0/OpenAudible_windows-x64_1_0.exe) |
+| **Linux**    | [OpenAudible.sh](https://github.com/openaudible/openaudible/releases/download/v1.0/OpenAudible_unix_1_0.sh) |
 
 
 [Other Releases](https://github.com/openaudible/openaudible/releases/latest)
@@ -41,6 +41,7 @@ You can also import all existing AAX files you may have already downloaded by us
 
 ## Source Code and Contributing
 The source code [source code](https://github.com/openaudible/openaudible) is 100% free and open source.
+
 TODO List:
  - Looking to obtain a signing certificate.
  - Need testers and feedback
@@ -51,4 +52,4 @@ TODO List:
 OpenAudible is unaffiliated with audible.com.
 OpenAudible uses ffmpeg to decode audio files.
 Licensed under the Eclipse license.
-For use on your own audible content that you own.
+For use with your own audible content only.
