@@ -12,9 +12,9 @@ No-hassle conversion of your Audible titles to MP3-- perhaps the fastest utility
 
 |         |           |
 |:----------|:------------------|
-| **Mac OS**   | [OpenAudible.dmg](https://github.com/openaudible/openaudible/releases/download/v1.0/OpenAudible_macos_1_0.dmg) |
-| **Win 64**   | [OpenAudible.exe](https://github.com/openaudible/openaudible/releases/download/v1.0/OpenAudible_windows-x64_1_0.exe) |
-| **Linux GTK**    | [OpenAudible.sh](https://github.com/openaudible/openaudible/releases/download/v1.0/OpenAudible_unix_1_0.sh) |
+| **Mac OS**   | [OpenAudible.dmg](https://github.com/openaudible/openaudible/releases/download/v1.1/OpenAudible_macos_1_1.dmg) |
+| **Win 64**   | [OpenAudible.exe](https://github.com/openaudible/openaudible/releases/download/v1.1/OpenAudible_windows-x64_1_1.exe) |
+| **Linux GTK**    | [OpenAudible.sh](https://github.com/openaudible/openaudible/releases/download/v1.1/OpenAudible_unix_1_1.sh) |
 
 [Latest Release](https://github.com/openaudible/openaudible/releases/latest) with MD5 hashes
 
