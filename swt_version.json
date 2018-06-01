@@ -5,4 +5,7 @@
 	"mac":"https://github.com/openaudible/openaudible/releases/download/v1.1/OpenAudible_macos_1_1.dmg",
 	"win":"https://github.com/openaudible/openaudible/releases/download/v1.1/OpenAudible_windows-x64_1_1.exe",
 	"linux":"https://github.com/openaudible/openaudible/releases/download/v1.1/OpenAudible_unix_1_1.sh",
+	"old_news":"Time to upgrade!",
+	"pre_release_news":"",
+	"current_news":"No known issues. Feel free to report any issues..."
 }
