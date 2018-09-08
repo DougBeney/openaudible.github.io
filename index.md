@@ -8,13 +8,13 @@ See all your Audible books in one location, on all your Mac, Windows, and Linux 
 
 No-hassle conversion of your Audible titles to MP3-- perhaps the fastest utility for downloading and converting Audible content-- about 30 seconds per hour of audiobook.
 
-## Download 1.1.6
+## Download 1.1.7
 
 |         |           |
 |:----------|:------------------|
-| **Mac OS**   | [OpenAudible.dmg](https://github.com/openaudible/openaudible/releases/download/v1.1.6/OpenAudible_macos_1_1_6.dmg) |
-| **Win 64**   | [OpenAudible.exe](https://github.com/openaudible/openaudible/releases/download/v1.1.6/OpenAudible_windows-x64_1_1_6.exe) |
-| **Linux GTK**    | [OpenAudible.sh](https://github.com/openaudible/openaudible/releases/download/v1.1.6/OpenAudible_unix_1_1_6.sh) |
+| **Mac OS**   | [OpenAudible.dmg](https://github.com/openaudible/openaudible/releases/download/v1.1.7/OpenAudible_macos_1_1_7.dmg) |
+| **Winows**   | [OpenAudible.exe](https://github.com/openaudible/openaudible/releases/download/v1.1.7/OpenAudible_windows-x64_1_1_7.exe) |
+| **Linux GTK**    | [OpenAudible.sh](https://github.com/openaudible/openaudible/releases/download/v1.1.7/OpenAudible_unix_1_1_7.sh) |
 
 [Latest Release](https://github.com/openaudible/openaudible/releases/latest) with MD5 hashes
 
@@ -24,9 +24,9 @@ No-hassle conversion of your Audible titles to MP3-- perhaps the fastest utility
 ## Quick Start
 Install the version for your platform. Until we get a signing certificate, you will be warned that this is an unsigned application.
 
-Note: Mac users may need to go to System Settings: Privacy and Security, and click Open "OpenAudible Installer" Anyway or allow unsigned 3rd party applications.
+Note: Mac users should open the OpenAudible.pkg installer by selecting it in Finder and Control-Clicking the application, then select Open. This is due to our not being available in the Apple Store or and not having a signing certificate. 
 
-First time you use the application, open the Browser window (Ctrl-B from the Controls menu) and log into your Audible.com account.
+First time you use the application, open the Browser window (Ctrl-B from the Controls menu) and log into your Audible.com account and browse to your list of purchased books.
 
 Then enter your credentials into the preferences. You can leave the password blank if you want.
 
@@ -44,15 +44,14 @@ You can also import all existing AAX files you may have already downloaded by us
 
 More help is available under the Help Menu.
 
-Uninstalling OpenAudible can be done with the uninstaller. Your settings are saved in the "Working directory" defined in the preferences. On Windows, it is C:\Users\NAME\OpenAudible. On Mac it somewhere else.
+Uninstalling OpenAudible can be done with the uninstaller. Your settings are saved in the "Working directory" defined in the preferences. On Windows, it is C:\Users\NAME\OpenAudible. On Mac it is /Users/NAME/Library/OpenAudible. 
 
 ## Source Code and Contributing
-The source code [source code](https://github.com/openaudible/openaudible) is 100% free and open source.
+The source code [source code](https://github.com/openaudible/openaudible) is open.
 
 TODO List:
  - Looking to obtain a signing certificate.
  - Need testers and feedback
- - Need AAX files for testing
  - Looking for cross-platform mobile/desktop/Sonos audiobook players for integration
 
 ## License and Disclaimer

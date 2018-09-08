@@ -1,11 +1,11 @@
 {
-	"version":"1.1.6",
+	"version":"1.1.7",
 	"site":"http://openaudible.org/",
 	"latest":"https://github.com/openaudible/openaudible/releases/latest",
-	"mac":"https://github.com/openaudible/openaudible/releases/download/v1.1.6/OpenAudible_macos_1_1_6.dmg",
-	"win":"https://github.com/openaudible/openaudible/releases/download/v1.1.6/OpenAudible_windows-x66_1_1_6.exe",
-	"linux":"https://github.com/openaudible/openaudible/releases/download/v1.1.6/OpenAudible_unix_1_1_6.sh",
-	"old_news":"Version 1.1.6 adds ability to ignore unwanted books. Fixes some connection issues.",
+	"mac":"https://github.com/openaudible/openaudible/releases/download/v1.1.7/OpenAudible_macos_1_1_7.dmg",
+	"win":"https://github.com/openaudible/openaudible/releases/download/v1.1.7/OpenAudible_windows-x64_1_1_7.exe",
+	"linux":"https://github.com/openaudible/openaudible/releases/download/v1.1.6/OpenAudible_unix_1_1_7.sh",
+	"old_news":"Version 1.1.7 fixes some 'full rescan' issues, adds links to audible in the main window, and has improved web interface.",
 	"pre_release_news":"",
 	"current_news":""
 }
