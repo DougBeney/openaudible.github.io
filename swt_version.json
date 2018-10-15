@@ -1,13 +1,12 @@
 {
-	"version":"1.2.2",
+	"version":"1.2.3",
 	"site":"http://openaudible.org/",
 	"latest":"https://github.com/openaudible/openaudible/releases/latest",
-	"mac":"https://github.com/openaudible/openaudible/releases/download/v1.2.2/OpenAudible_macos_1_2_2.dmg",
-	"win":"https://github.com/openaudible/openaudible/releases/download/v1.2.2/OpenAudible_windows-x64_1_2_2.exe",
-	"linux":"https://github.com/openaudible/openaudible/releases/download/v1.2.2/OpenAudible_unix_1_2_2.sh",
-	"old_news":"Version 1.2.2 fixes bugs.",
+	"mac":"https://github.com/openaudible/openaudible/releases/download/v1.2.3/OpenAudible_macos_1_2_3.dmg",
+	"win":"https://github.com/openaudible/openaudible/releases/download/v1.2.3/OpenAudible_windows-x64_1_2_3.exe",
+	"linux":"https://github.com/openaudible/openaudible/releases/download/v1.2.3/OpenAudible_unix_1_2_3.sh",
+	"old_news":"Big changes to resolve connection issues.",
 	"pre_release_news":"",
 	"current_news":""
 }
-
 

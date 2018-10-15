@@ -8,13 +8,13 @@ See all your Audible books in one location, on all your Mac, Windows, and Linux 
 
 No-hassle conversion of your Audible titles to MP3-- perhaps the fastest utility for downloading and converting Audible content-- about 30 seconds per hour of audiobook.
 
-## Download 1.2.2
+## Download 1.2.3
 
 |         |           |
 |:----------|:------------------|
-| **Mac OS**   | [OpenAudible.dmg](https://github.com/openaudible/openaudible/releases/download/v1.2.2/OpenAudible_mac_1.2.2.dmg) |
-| **Winows**   | [OpenAudible.exe](https://github.com/openaudible/openaudible/releases/download/v1.2.2/OpenAudible_win_1.2.2.exe) |
-| **Linux GTK**    | [OpenAudible.sh](https://github.com/openaudible/openaudible/releases/download/v1.2.2/OpenAudible_liunx_1.2.2.sh) |
+| **Mac OS**   | [OpenAudible.dmg](https://github.com/openaudible/openaudible/releases/download/v1.2.3/OpenAudible_mac_1.2.3.dmg) |
+| **Winows**   | [OpenAudible.exe](https://github.com/openaudible/openaudible/releases/download/v1.2.3/OpenAudible_win_1.2.3.exe) |
+| **Linux GTK**    | [OpenAudible.sh](https://github.com/openaudible/openaudible/releases/download/v1.2.3/OpenAudible_liunx_1.2.3.sh) |
 
 [Latest Release](https://github.com/openaudible/openaudible/releases/latest) with MD5 hashes
 
